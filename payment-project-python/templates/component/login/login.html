@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment Credit Card</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="image-container">
+            <img src="{{ url_for('static', filename='assets/SIS.png') }}" alt="SIS Logo" class="centered-img">
+        </div>
+        
+        <h2>Payment Credit Card</h2>
+
+        <form method="POST" action="{{ url_for('login') }}">
+            <!-- username pass -->
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" placeholder="Enter Customer Code">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password"  placeholder="Enter Password">
+            </div>
+        </form>
+
+        <a href="{{ url_for('frgpss') }}" class="link for-pass">Forgot password?</a>
+
+        <div class="row">
+            <div class="column">
+                <div class="form-group">
+                    <form action="{{ url_for('login') }}" method="POST">
+                        <button class="login-button" type="submit">Log In</button>
+                    </form>
+                </div>
+            </div>
+            <div class="column">
+                <div class="form-group">
+                    <form action="{{ url_for('register') }}" method="GET">
+                        <button class="regis-button" type="submit">Register</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>

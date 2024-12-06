@@ -1,0 +1,40 @@
+<div class="container">
+  <div class="image-container">
+    <img src="assets/SIS.png" alt="SIS Image" />
+  </div>
+  
+
+  <h2>Payment Credit Card</h2>
+
+  <form (ngSubmit)="onLogin()" #loginForm="ngForm">
+    <!-- Username -->
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" name="username" id="username" placeholder="Enter Customer Code"
+        [(ngModel)]="loginData.username" required />
+    </div>
+
+    <!-- Password -->
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password"placeholder="Enter Password"
+        [(ngModel)]="loginData.password" required />
+    </div>
+
+    <a routerLink="/forgot-password" class="link for-pass">Forgot password?</a>
+
+    <div class="row">
+      <div class="column">
+        <button class="login-button" type="submit" [disabled]="!loginForm.valid">
+          Log In
+        </button>
+      </div>
+      <div class="column">
+        <button class="regis-button" type="button"
+          (click)="navigateToRegister()">
+          Register
+        </button>
+      </div>
+    </div>
+  </form>
+</div>

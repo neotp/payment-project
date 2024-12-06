@@ -1,0 +1,214 @@
+/* css btn */
+.button-container {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border: 1px solid transparent;
+  margin-left: 10px;
+  margin-top: 25px;
+}
+
+.search-button {
+  background-color: #f9e3e2;
+  border: 1px solid #5b3b4f;
+  color: #5b3b4f;
+}
+
+.search-button:hover {
+  background-color: #f7d6d6;
+}
+
+.create-payment-button {
+  background-color: #e3f2fd;
+  border: 1px solid #00317A;
+  color: #00317A;
+}
+
+.create-payment-button:hover {
+  background-color: #bbdefb;
+}
+
+.button .material-icons {
+  margin-right: 8px;
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+}
+
+/* css row */
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* css column */
+.column {
+  flex: 1;
+  margin: 0 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+/* css input */
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border: 2px solid #f9e3e2;
+  border-radius: 5px;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+/* css label */
+label {
+  margin-right: 10px;
+}
+
+.table-container {
+  max-width: 100%;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+/* css table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 8px 12px;
+  border-bottom: 1px solid #f9e3e2;
+  color: #503651;
+}
+
+th {
+  background-color: #f9e3e2;
+  font-weight: bold;
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  white-space: nowrap; 
+}
+
+tr:nth-child(even) {
+  background-color: #fdf7f6;
+}
+
+tr:hover {
+  background-color: #f9e3e2;
+}
+
+input[type="checkbox"] {
+  cursor: pointer;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
+
+/* css cbx */
+.checkbox-custom {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 2px solid #885a8a;
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkbox-custom:checked {
+  background-color: #885a8a;
+  border-color: #885a8a;
+}
+
+.checkbox-custom:checked::after {
+  content: '✔';
+  color: #f9e3e2;
+  font-size: 14px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+}
+
+.size-cbx {
+  width: 5%;
+}
+
+.size-doctype {
+  width: 5%;
+}
+
+.size-docno {
+  width: 20%;
+}
+
+.size-docdate {
+  width: 20%;
+}
+
+.size-duedate {
+  width: 20%;
+}
+
+.size-docamount {
+  width: 15%;
+}
+
+.size-balamount {
+  width: 15%;
+}
+
+p {
+    text-align: center; /* Center any paragraphs */
+}
+
+footer {
+    text-align: center; /* Center the text in the footer */
+    background-color: #f1f1f1; /* Optional: add a background color */
+    padding: 20px 0; /* Optional: add some padding */
+    position: relative; /* Optional: keep it positioned relative to the page */
+    bottom: 0; /* Optional: keep it at the bottom */
+    width: 100%; /* Ensure it takes full width */
+}
+
+footer p {
+    margin: 0; /* Remove default margin */
+}
