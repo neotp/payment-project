@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 import { FormBuilder, FormGroup, FormsModule, Validators, ReactiveFormsModule } from '@angular/forms';
 import { Login } from '../../interface/loginpage-interface';
 // import { ApiService } from '../../service/api.service';
 
 
 @Component({
-  imports: [ FormsModule ,ReactiveFormsModule],
+  imports: [ FormsModule, ReactiveFormsModule, RouterLink],
   selector: 'app-loginpage',
   templateUrl: './loginpage.component.html',
   styleUrls: ['./loginpage.component.css'],
@@ -51,7 +51,7 @@ export class LoginpageComponent implements OnInit {
       console.log('password :',this.loginData.password);
       // this.api.login(this.loginData).forEach((result: any) => {
       //   if(result){
-      //     this.router.navigate(['/pymntpage'], {queryParams: this.loginData})
+          this.router.navigate(['/pymntpage'], {queryParams: this.loginData})
       //   } else {
       //     console.log('alert message');
       //   }

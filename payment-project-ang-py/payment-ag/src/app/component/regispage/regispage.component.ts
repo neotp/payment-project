@@ -1,9 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, EventEmitter, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators, ReactiveFormsModule, FormBuilder, FormsModule  } from '@angular/forms';
-import { Router } from '@angular/router';
+import { Router, RouterLink } from '@angular/router';
 
 @Component({
-  imports: [ FormsModule ,ReactiveFormsModule]
+  imports: [ FormsModule ,ReactiveFormsModule, RouterLink]
   , selector: 'app-regispage'
   , templateUrl: './regispage.component.html'
   , styleUrls: ['./regispage.component.css'
@@ -12,6 +12,7 @@ import { Router } from '@angular/router';
 })
 export class RegispageComponent implements OnInit {
   public registerForm: FormGroup;
+  public loadingApp: EventEmitter<boolean> = new EventEmitter(false);
 
   constructor(
     private router: Router
@@ -28,16 +29,20 @@ export class RegispageComponent implements OnInit {
       , position: [{ value: null, disabled: false }, [Validators.required]]
     });}
 
-  ngOnInit(): void {
+    public ngOnInit(): void {
   //
   }
 
-  onSubmit(): void {
+  public onSubmit(): void {
     if (this.registerForm.valid) {
       // Handle form submission (e.g., send data to an API)
       console.log(this.registerForm.value);
       // Redirect or show success message
       this.router.navigate(['/home']);
     }
+  }
+
+  public setLoading(isLoading: boolean): void {
+    this.loadingApp.emit(isLoading);
   }
 }
