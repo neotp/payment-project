@@ -1,0 +1,2261 @@
+
+**** Log file opened at 2024-12-20 11:46:16.117334 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 22252
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 11:46:16.118484 [18664] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 11:46:16.118499 [18664] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-20 11:48:45.629925 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 27512
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 11:48:45.630014 [09656] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 11:48:45.630020 [09656] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-20 11:49:00.425561 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 11152
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 11:49:00.425630 [25368] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 11:49:00.425634 [25368] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-20 11:58:33.263751 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 15248
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 11:58:33.263827 [26520] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 11:58:33.263831 [26520] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-20 13:43:47.137478 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 17012
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 13:43:47.137553 [02588] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 13:43:47.137558 [02588] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 13:43:47.373120 [02588] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 13:43:47.458583 [02588] >> Error entry
+	[Handle: 1657731759456	ConvID: 92186316	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2024-12-20 13:44:10.091909 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 17988
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 13:44:10.091999 [09644] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 13:44:10.092005 [09644] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 13:44:10.258699 [09644] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB772B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 13:44:10.329497 [09644] >> Error entry
+	[Handle: 2819364966176	ConvID: 92210233	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2024-12-20 15:27:33.633132 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 27596
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 15:27:33.633201 [04364] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 15:27:33.633206 [04364] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 15:27:33.845323 [04364] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8959B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA63828BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA6382A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA638267C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA6383B6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA6383B670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA63839E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA63839E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA6390A18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA63909608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA639D0D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA6392E4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA63896524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA63896524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA638961E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 15:27:33.940829 [04364] >> Error entry
+	[Handle: 1739353891648	ConvID: 98422819	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2024-12-20 16:01:00.579784 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 15892
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:00.579858 [11204] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:00.579862 [11204] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:00.773027 [11204] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:00.841652 [11204] >> Error entry
+	[Handle: 1772662194448	ConvID: 00434755	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2024-12-20 16:01:02.867072 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 24816
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:02.867138 [25780] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:02.867143 [25780] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:03.063173 [25780] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:03.133265 [25780] >> Error entry
+	[Handle: 2792856639856	ConvID: 00438028	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Name or password is incorrect (repeat logon)
+
+**** Log file opened at 2024-12-20 16:01:03.836319 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 19388
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:03.836381 [07316] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:03.836386 [07316] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:04.013261 [07316] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:04.082867 [07316] >> Error entry
+	[Handle: 1866033389136	ConvID: 00439995	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:04.497961 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 26896
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:04.498037 [16528] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:04.498042 [16528] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:04.667238 [16528] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:04.737848 [16528] >> Error entry
+	[Handle: 2557965008864	ConvID: 00441665	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:04.864012 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 13340
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:04.864077 [27664] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:04.864082 [27664] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:05.037942 [27664] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:05.104569 [27664] >> Error entry
+	[Handle: 2035094731296	ConvID: 00443023	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:05.216280 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 19884
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:05.216343 [09712] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:05.216347 [09712] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:05.379354 [09712] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:05.445426 [09712] >> Error entry
+	[Handle: 1742822330944	ConvID: 00444373	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:05.561424 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 19552
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:05.561505 [19908] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:05.561509 [19908] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:05.722089 [19908] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:05.794250 [19908] >> Error entry
+	[Handle: 2337598693296	ConvID: 00445713	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:05.904591 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 12052
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:05.904715 [17164] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:05.904737 [17164] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:06.076365 [17164] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:06.151070 [17164] >> Error entry
+	[Handle: 2517381333824	ConvID: 00447068	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:06.268874 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 10596
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:06.268940 [07808] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:06.268945 [07808] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:06.438191 [07808] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:06.506463 [07808] >> Error entry
+	[Handle: 3024869229184	ConvID: 00448436	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:06.619355 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 16292
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:06.619429 [12604] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:06.619434 [12604] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:06.786656 [12604] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:06.863239 [12604] >> Error entry
+	[Handle: 2152979457024	ConvID: 00449780	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:07.396282 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 06296
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:07.396349 [26176] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:07.396354 [26176] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:07.564037 [26176] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:07.631139 [26176] >> Error entry
+	[Handle: 2291277612176	ConvID: 00451548	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:07.784763 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 08084
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:07.784839 [29888] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:07.784844 [29888] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:07.936035 [29888] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:08.001985 [29888] >> Error entry
+	[Handle: 2762643619600	ConvID: 00452935	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:08.164813 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 04792
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:08.164883 [14156] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:08.164888 [14156] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:08.324475 [14156] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:08.393830 [14156] >> Error entry
+	[Handle: 2037358215152	ConvID: 00454312	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:08.692036 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 30532
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:08.692105 [27464] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:08.692109 [27464] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:08.851537 [27464] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:08.922360 [27464] >> Error entry
+	[Handle: 1269367324720	ConvID: 00455852	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:09.119093 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 16144
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:09.119157 [19988] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:09.119161 [19988] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:09.288719 [19988] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:09.360838 [19988] >> Error entry
+	[Handle: 2581615173232	ConvID: 00457275	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 16:01:09.483184 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 14124
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 16:01:09.483253 [28304] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 16:01:09.483257 [28304] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 16:01:09.643955 [28304] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0159B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB8FDB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA5EEC8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA5EECA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA5EEC67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA5EEDB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA5EEDB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EED9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA5EFAA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFA9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5F070D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA5EFCE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF36524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA5EF361E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 16:01:09.713360 [28304] >> Error entry
+	[Handle: 2104482062448	ConvID: 00458637	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 17:51:52.974801 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 15644
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 17:51:52.974929 [03304] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 17:51:52.974936 [03304] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 17:51:53.168051 [03304] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8959B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA89F18BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA89F1A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA89F167C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA89F2B6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA89F2B670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA89F29E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA89F29E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA89FFA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA89FF9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA8A0C0D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA8A01E4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA89F86524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA89F86524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA89F861E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 17:51:53.241615 [03304] >> Error entry
+	[Handle: 2560889335808	ConvID: 07115146	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-20 18:01:12.772056 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 30292
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.86
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-20 18:01:12.772127 [06848] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-20 18:01:12.772132 [06848] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-20 18:01:12.949105 [06848] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8D96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5E8959B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA89F18BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA89F1A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA89F167C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA89F2B6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFA89F2B670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFA89F29E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA89F29E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFA89FFA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFA89FF9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA8A0C0D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFA8A01E4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFA89F86524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA89F86524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFA89F861E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-20 18:01:13.024792 [06848] >> Error entry
+	[Handle: 2243360993968	ConvID: 07675933	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-23 09:49:03.185025 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 18276
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 09:49:03.185140 [17080] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 09:49:03.185147 [17080] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-23 09:49:03.429472 [17080] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A359B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAE5C2B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAE5C2B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAE5C2B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAA9598BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAA959A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAA95967C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFAA95AB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFAA95AB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFAA95A9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAA95A9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAA967A18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFAA9679608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAA9740D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAA969E4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFAA9606524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAA9606524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAA96061E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-23 09:49:03.532922 [17080] >> Error entry
+	[Handle: 2100259212448	ConvID: 22611382	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-23 13:59:45.322232 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 27380
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 13:59:45.322318 [14252] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 13:59:45.322323 [14252] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-23 13:59:45.525784 [14252] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA76096B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA75C59B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFABB7AB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFABB7AB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFABB7AB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB06E8BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB06EA980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB06E67C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFAB06FB6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFAB06FB670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFAB06F9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAB06F9E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAB07CA18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFAB07C9608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAB0890D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAB07EE4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFAB0756524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAB0756524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAB07561E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-23 13:59:45.618484 [14252] >> Error entry
+	[Handle: 2264589067280	ConvID: 37672518	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-23 15:50:49.810995 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 29124
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 15:50:49.811065 [01276] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 15:50:49.811070 [01276] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+2024-12-23 15:50:50.029525 [01276] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A796B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA95A359B0: sapnwrfc.dll!RfcOpenConnection(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB9C4B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAAB668BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAAB66A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAAB6667C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFAAB67B6A4: python38.dll!PyEval_EvalCodeEx(Error in SymSetContext(): 50)
+	0x7FFAAB67B670: python38.dll!PyEval_EvalCode(Error in SymSetContext(): 50)
+	0x7FFAAB679E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAAB679E74: python38.dll!PyArena_New(Error in SymSetContext(): 50)
+	0x7FFAAB74A18C: python38.dll!PyRun_FileExFlags(Error in SymSetContext(): 50)
+	0x7FFAAB749608: python38.dll!PyRun_SimpleFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAAB810D84: python38.dll!PyRun_AnyFileExFlags(Error in SymSetContext(): 50)
+	0x7FFAAB76E4A4: python38.dll!Py_FatalError(Error in SymSetContext(): 50)
+	0x7FFAAB6D6524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAAB6D6524: python38.dll!Py_RunMain(Error in SymSetContext(): 50)
+	0x7FFAAB6D61E4: python38.dll!Py_Main(Error in SymSetContext(): 50)
+???	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+2024-12-23 15:50:50.113701 [01276] >> Error entry
+	[Handle: 1836574461440	ConvID: 44346006	Target: ERP6DEV	SysID: SDA	SysNr: 00	User: pornchaip	Client: 300	Language: 	Codepage: 4103]
+	RfcLogonException: Key: RFC_LOGON_FAILURE, Code: RFC_LOGON_FAILURE, Message: Password logon no longer possible - too many failed attempts
+
+**** Log file opened at 2024-12-23 16:33:26.167476 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 30928
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 16:33:26.167539 [19400] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 16:33:26.167543 [19400] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 16:55:20.337624 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\nwrfcsdk
+Program                   : python
+Process ID                : 30516
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 16:55:20.337712 [10388] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 16:55:20.337717 [10388] >> Info entry
+	Did not find config file C:\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:04:33.654561 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 16432
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:04:33.654648 [21756] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:04:33.654653 [21756] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:09:25.588599 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 03920
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:09:25.588678 [11104] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:09:25.588682 [11104] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:26:33.438439 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 15376
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:26:33.438562 [26740] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:26:33.438569 [26740] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:26:44.923012 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14532
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:26:44.923095 [11032] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:26:44.923100 [11032] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:02.832260 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 26992
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:02.832367 [19112] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:02.832374 [19112] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:04.915818 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 22224
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:04.915910 [20044] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:04.915916 [20044] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:07.289039 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 28968
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:07.289119 [26872] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:07.289124 [26872] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:18.842474 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 30748
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:18.842574 [03232] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:18.842581 [03232] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:23.508641 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 08136
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:23.508732 [10340] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:23.508737 [10340] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:28.285257 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 23916
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::59e1:aa36:93bc:129e
+Global trace level        : 0
+
+2024-12-23 17:27:28.285337 [09524] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:28.285342 [09524] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:37.023327 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 10544
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:37.023398 [02396] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:37.023403 [02396] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:39.382512 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 22328
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:39.382640 [05960] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:39.382645 [05960] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:43.013517 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 12452
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:43.013598 [22992] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:43.013603 [22992] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:48.890092 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 19524
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:48.890180 [26848] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:48.890186 [26848] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-23 17:27:49.657996 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 30856
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.94
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-23 17:27:49.658074 [26972] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-23 17:27:49.658079 [26972] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+2024-12-23 17:34:18.341782 [06776] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70F96B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFAA70D2930: sapnwrfc.dll!RfcGetFunctionDesc(Error in SymSetContext(): 50)
+	0x7FFABB7AB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFABB7AB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAAB65AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAAB668BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAAB66A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAAB6667C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFAAB668380: python38.dll!PyFunction_Vectorcall(Error in SymSetContext(): 50)
+	0x7FFAAB6BA11C: python38.dll!PyObject_FastCallDict(Error in SymSetContext(): 50)
+	0x7FFAAB731888: python38.dll!PyUnicode_AsRawUnicodeEscapeString(Error in SymSetContext(): 50)
+	0x7FFAAB731888: python38.dll!PyUnicode_AsRawUnicodeEscapeString(Error in SymSetContext(): 50)
+	0x7FFAAB68ED20: python38.dll!PyObject_MakeTpCall(Error in SymSetContext(): 50)
+	0x7FFAAB807E0C: python38.dll!PyContext_NewHamtForTests(Error in SymSetContext(): 50)
+	0x7FFAAB691F70: python38.dll!PyArg_UnpackStack(Error in SymSetContext(): 50)
+	0x7FFAAB656068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFAAB655990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAAB66A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAAB668BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAAB66A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAAB668BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAAB66A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAAB668380: python38.dll!PyFunction_Vectorcall(Error in SymSetContext(): 50)
+	0x7FFAAB65AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAAB656068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFAAB6B9C60: python38.dll!PyObject_Call(Error in SymSetContext(): 50)
+	0x7FFAAB6E297C: python38.dll!PyThread_exit_thread(Error in SymSetContext(): 50)
+	0x7FFAAB6E297C: python38.dll!PyThread_exit_thread(Error in SymSetContext(): 50)
+	0x7FFB00709290: ucrtbase.dll!recalloc(Error in SymSetContext(): 50)
+	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+
+**** Log file opened at 2024-12-24 09:35:02.281213 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 31016
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 09:35:02.282199 [23288] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 09:35:02.282208 [23288] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:00:18.497078 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29464
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:00:18.497177 [14636] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:00:18.497184 [14636] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:05:45.605470 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29544
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:05:45.605538 [10184] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:05:45.605542 [10184] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:09:04.775443 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 26276
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:09:04.775519 [19992] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:09:04.775525 [19992] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:09:16.811916 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 24812
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:09:16.812001 [20496] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:09:16.812006 [20496] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:10:31.277584 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 25080
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:10:31.277687 [25836] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:10:31.277692 [25836] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:14:54.078916 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 10952
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:14:54.079002 [18980] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:14:54.079006 [18980] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:20:11.366517 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 10228
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:20:11.366610 [23284] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:20:11.366615 [23284] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:22:33.732775 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 03216
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:22:33.732849 [18076] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:22:33.732854 [18076] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:22:35.980570 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 12968
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:22:35.980658 [31692] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:22:35.980663 [31692] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:23:27.959394 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 23796
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:23:27.959505 [28132] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:23:27.959512 [28132] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:23:40.847196 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 02924
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:23:40.847267 [04588] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:23:40.847273 [04588] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:24:14.681186 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 28228
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:24:14.681292 [29572] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:24:14.681300 [29572] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:24:18.916225 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 16180
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:24:18.916306 [19156] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:24:18.916310 [19156] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 10:24:19.957994 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 28820
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 10:24:19.958080 [09560] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 10:24:19.958085 [09560] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
