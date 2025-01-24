@@ -1,14 +1,21 @@
 import { Component, EventEmitter } from '@angular/core';
-import { FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { FormBuilder, FormGroup, FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
 import { MatIconModule } from '@angular/material/icon';
 import { PopupComponent } from "../popup/popup.component";
 import { CommonModule } from '@angular/common';
 import { SearchInv } from '../../interface/payment-interface';
-
+import { ApiService } from '../../service/api.service';
+import { firstValueFrom } from 'rxjs';
 
 @Component({
   selector: 'app-pymntpage',
-  imports: [MatIconModule, PopupComponent, CommonModule],
+  imports: [
+    MatIconModule
+    , PopupComponent
+    , CommonModule
+    , FormsModule
+    , ReactiveFormsModule
+  ],
   templateUrl: './pymntpage.component.html',
   styleUrl: './pymntpage.component.css'
 })
@@ -29,7 +36,7 @@ export class PymntpageComponent {
 
   constructor(
     private formBuilder: FormBuilder
-    // , private paymentService: PaymentService
+    , private api: ApiService
   ) {
     this.headerForm = this.formBuilder.group({
       cuscode: [{ value: null, disabled: false }]
@@ -44,24 +51,56 @@ export class PymntpageComponent {
   }
 
   private populateForm(): void {
-    this.searchData.cuscode = this.headerForm.controls['cuscode'].value;
+    this.searchData.customer_code = this.headerForm.controls['cuscode'].value;
     this.searchData.invno = this.headerForm.controls['invNo'].value;
   }
 
 
   public loadData(): void {
-   //
+   // 
   }
 
-  public searchPayment(): void {
+  public async searchPayment(): Promise<void> {
     this.setLoading(true);
     this.populateForm()
-    if (this.searchData.cuscode && this.searchData.invno){
-      //
+    
+    if (this.searchData.customer_code && this.searchData.invno){
+      // this.api.testConnect(this.searchData).forEach((result: any) => {
+      //   if(result){
+      //       console.log(result);
+      //   } else {
+      //       console.log('alert message');
+      //   }
+      // });
+      
+      // const result = await firstValueFrom(this.api.getData(this.searchData));
+      // if (result) {
+      //   console.log(result);
+      // } else {
+      //   console.log('alert message');
+      // }
+
+
+
+      this.api.getData(this.searchData).subscribe({
+        next: (result: any) => {
+          if (result) {
+            console.log(result);
+          } else {
+            console.log('alert message');
+          }
+        },
+        error: (err: any) => {
+          console.error('API call failed:', err);
+          console.log('alert message');
+        },
+        complete: () => {
+          this.setLoading(false);
+        }
+      });
     } else {
       this.popup('search');
     }
-    this.setLoading(false);
   }
 
   public createPayment(): void {
@@ -72,9 +111,17 @@ export class PymntpageComponent {
   }
 
   public toggleSelectAll(table: string): void {
-    // Logic for handling select all checkboxes
+    const data = table === 'filtered' ? this.filterData : this.allData;
+    const allSelected = data.every((item: any) => item.selected);
+    data.forEach((item: any) => (
+      item.selected = !allSelected
+    ));
   }
 
+  public isAllSelected(): boolean {
+    return this.allData.every(item => item.selected);
+  }
+  
   public popup(pop: string) {
     switch (pop) {
       case 'warning':
@@ -114,7 +161,9 @@ export class PymntpageComponent {
         break;
     }
   }
+  
   public setLoading(isLoading: boolean): void {
     this.loadingApp.emit(isLoading);
   }
+  
 }

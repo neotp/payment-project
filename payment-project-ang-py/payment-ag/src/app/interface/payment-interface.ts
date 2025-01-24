@@ -1,4 +1,4 @@
 export interface SearchInv {
-    cuscode: string,
+    customer_code: string,
     invno: string,
   }

@@ -2,6 +2,7 @@ import { Routes } from '@angular/router';
 import { LoginpageComponent } from './component/loginpage/loginpage.component';
 import { RegispageComponent } from './component/regispage/regispage.component';
 import { PymntpageComponent } from './component/pymntpage/pymntpage.component';
+import { MnusrpageComponent } from './component/mnusrpage/mnusrpage.component';
 
 export const routes: Routes = [
     {
@@ -20,5 +21,9 @@ export const routes: Routes = [
     {
         path:'pymntpage',
         component:PymntpageComponent
+    },
+    {
+        path:'mnusrpage',
+        component:MnusrpageComponent
     }
 ];

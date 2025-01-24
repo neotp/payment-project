@@ -11,7 +11,7 @@
   <img src="SIS.png" style="width: 110px; height: auto;">
   <label id="customerLabel" class="tag-name">{{ customerLabel }}</label>
 </div>
-
+<div [formGroup]="headerForm">
 <div class="row">
   <div class="column">
     <label for="cuscode">Customer Code.<span style="color: red;">*</span></label>
@@ -36,8 +36,8 @@
     </div>
   </div>
 </div>
+</div>
 
-<input type="hidden" formControlName="selectedRows" />
 
 <div class="divider-line"></div>
 
@@ -48,7 +48,10 @@
   <table id="filterDataTable">
     <thead>
       <tr>
-        <th class="size-cbx"><input type="checkbox" class="checkbox-custom" (click)="toggleSelectAll('filtered')" />
+        <th class="size-cbx">
+          <input  type="checkbox"
+          [checked]="isAllSelected()"
+          (change)="toggleSelectAll('all')" />
         </th>
         <th class="size-doctype">Doc. Type</th>
         <th class="size-docno">Doc. No.</th>
@@ -59,14 +62,16 @@
       </tr>
     </thead>
     <tbody>
-      <tr *ngFor="let item of filterData">
-        <td class="text-center size-cbx"><input type="checkbox" class="checkbox-custom" /></td>
-        <td class="text-center size-doctype">{{ item.DOC_TYPE_DISPLAY }}</td>
-        <td class="text-center size-docno">{{ item.BILL_DOC }}</td>
-        <td class="text-center size-docdate">{{ item.DOC_DATE }}</td>
-        <td class="text-center size-duedate">{{ item.DUE_DATE }}</td>
-        <td class="text-right size-docamount">{{ item.DOC_AMOUNT }}</td>
-        <td class="text-right size-balamount">{{ item.BALANCE_AMOUNT }}</td>
+      <tr *ngFor="let record of allData">
+        <td class="text-center size-cbx">
+          <input type="checkbox" class="checkbox-custom" [(ngModel)]="record.selected"/>
+        </td>
+        <td class="text-center size-doctype">{{ record.DOC_TYPE_DISPLAY }}</td>
+        <td class="text-center size-docno">{{ record.BILL_DOC }}</td>
+        <td class="text-center size-docdate">{{ record.DOC_DATE }}</td>
+        <td class="text-center size-duedate">{{ record.DUE_DATE }}</td>
+        <td class="text-right size-docamount">{{ record.DOC_AMOUNT }}</td>
+        <td class="text-right size-balamount">{{ record.BALANCE_AMOUNT }}</td>
       </tr>
     </tbody>
   </table>

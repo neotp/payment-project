@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
 import { FormBuilder, FormGroup, FormsModule, Validators, ReactiveFormsModule } from '@angular/forms';
 import { Login } from '../../interface/loginpage-interface';
+import { ApiService } from '../../service/api.service';
 // import { ApiService } from '../../service/api.service';
 
 
@@ -21,7 +22,7 @@ export class LoginpageComponent implements OnInit {
   constructor(
     private router: Router
     , private formBuilder: FormBuilder
-    // , private api: ApiService
+    , private api: ApiService
   ) {
     this.loginForm = this.formBuilder.group({
       usr: [{ value: null, disabled: false }, [Validators.required]]
@@ -47,17 +48,21 @@ export class LoginpageComponent implements OnInit {
     if (!this.loginData.username || !this.loginData.password) {
       console.log('alert message');
     } else {
-      console.log('username :',this.loginData.username );
-      console.log('password :',this.loginData.password);
-      // this.api.login(this.loginData).forEach((result: any) => {
-      //   if(result){
-          this.router.navigate(['/pymntpage'], {queryParams: this.loginData})
-      //   } else {
-      //     console.log('alert message');
-      //   }
-      // });
+      console.log('username :', this.loginData.username);
+      console.log('password :', this.loginData.password);
+      
+      // Assuming `this.api.login()` returns an observable
+      this.api.login(this.loginData).subscribe((result: any) => {
+        if(result.role === 'admin') {
+          this.router.navigate(['/mnusrpage'], {queryParams: this.loginData});
+        } else {
+          this.router.navigate(['/pymntpage'], {queryParams: this.loginData});
+        }
+      }, (error: any) => {
+        console.log('Error during login:', error);
+      });
     }
-  } 
+  }
 
   public register(): void {
     this.router.navigate(['/regispage']);

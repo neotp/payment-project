@@ -25,4 +25,5 @@ export class PopupComponent {
     this.confirm.emit();
     this.closePopup();
   }
+  
 }

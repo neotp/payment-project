@@ -2259,3 +2259,1908 @@ Global trace level        : 0
 	Found env variable SAP_CODEPAGE=8600
 2024-12-24 10:24:19.958085 [09560] >> Info entry
 	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 15:52:11.039892 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 15016
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 15:52:11.039979 [08504] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 15:52:11.039985 [08504] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 15:55:06.493986 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 13452
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 15:55:06.494059 [22252] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 15:55:06.494064 [22252] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 15:55:08.251771 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29664
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 15:55:08.251915 [02204] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 15:55:08.251927 [02204] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+2024-12-24 15:55:36.754710 [04176] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A0596B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA5A032930: sapnwrfc.dll!RfcGetFunctionDesc(Error in SymSetContext(): 50)
+	0x7FFAA710B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAA710B220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA8A52AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFA8A538BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA8A53A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA8A5367C0: python38.dll!PyEval_EvalCodeWithName(Error in SymSetContext(): 50)
+	0x7FFA8A538380: python38.dll!PyFunction_Vectorcall(Error in SymSetContext(): 50)
+	0x7FFA8A58A11C: python38.dll!PyObject_FastCallDict(Error in SymSetContext(): 50)
+	0x7FFA8A601888: python38.dll!PyUnicode_AsRawUnicodeEscapeString(Error in SymSetContext(): 50)
+	0x7FFA8A601888: python38.dll!PyUnicode_AsRawUnicodeEscapeString(Error in SymSetContext(): 50)
+	0x7FFA8A55ED20: python38.dll!PyObject_MakeTpCall(Error in SymSetContext(): 50)
+	0x7FFA8A6D7E0C: python38.dll!PyContext_NewHamtForTests(Error in SymSetContext(): 50)
+	0x7FFA8A561F70: python38.dll!PyArg_UnpackStack(Error in SymSetContext(): 50)
+	0x7FFA8A526068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFA8A525990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFA8A53A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA8A538BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA8A53A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA8A538BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFA8A53A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFA8A538380: python38.dll!PyFunction_Vectorcall(Error in SymSetContext(): 50)
+	0x7FFA8A52AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFA8A526068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFA8A589C60: python38.dll!PyObject_Call(Error in SymSetContext(): 50)
+	0x7FFA8A5B297C: python38.dll!PyThread_exit_thread(Error in SymSetContext(): 50)
+	0x7FFA8A5B297C: python38.dll!PyThread_exit_thread(Error in SymSetContext(): 50)
+	0x7FFB00709290: ucrtbase.dll!recalloc(Error in SymSetContext(): 50)
+	0x7FFB01492560: KERNEL32.DLL!BaseThreadInitThunk(Error in SymSetContext(): 50)
+	0x7FFB02C8AF00: ntdll.dll!RtlUserThreadStart(Error in SymSetContext(): 50)
+
+
+**** Log file opened at 2024-12-24 16:01:18.393936 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 18704
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:01:18.394017 [10864] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:01:18.394022 [10864] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:01:21.170018 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 24172
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:01:21.170144 [05380] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:01:21.170152 [05380] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:01:23.007396 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 19860
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:01:23.007468 [19568] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:01:23.007473 [19568] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:01:31.383521 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 28292
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:01:31.383619 [23136] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:01:31.383625 [23136] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:01:58.442822 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 20272
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:01:58.442897 [15052] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:01:58.442902 [15052] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:02:06.522600 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 22268
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:02:06.522678 [08504] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:02:06.522683 [08504] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:02:57.569800 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 25024
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:02:57.569907 [30840] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:02:57.569914 [30840] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:33:58.831518 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 02476
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:33:58.831597 [25552] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:33:58.831602 [25552] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:34:01.679994 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 11520
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:34:01.680068 [24144] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:34:01.680072 [24144] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:34:12.953449 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 20412
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:34:12.953527 [23456] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:34:12.953533 [23456] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:34:19.760835 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 24068
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:34:19.760946 [18636] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:34:19.760953 [18636] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:34:22.339289 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 09924
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:34:22.339365 [02232] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:34:22.339381 [02232] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:38:58.755600 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 16028
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:38:58.755705 [12500] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:38:58.755711 [12500] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:39:00.771363 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 25504
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:39:00.771443 [13964] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:39:00.771449 [13964] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:39:08.684550 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 11788
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:39:08.684636 [17128] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:39:08.684641 [17128] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:39:46.996336 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 27424
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:39:46.996409 [26388] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:39:46.996414 [26388] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:39:48.031567 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 31280
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:39:48.031646 [29468] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:39:48.031651 [29468] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:43:59.588865 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14960
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:43:59.588941 [20080] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:43:59.588946 [20080] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:44:01.718096 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 24948
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:44:01.718187 [14600] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:44:01.718194 [14600] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:44:14.350311 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 05204
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:44:14.350442 [15208] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:44:14.350451 [15208] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:44:15.863026 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 21528
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:44:15.863137 [21936] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:44:15.863143 [21936] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:48:25.464083 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29504
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:48:25.464162 [17540] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:48:25.464167 [17540] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:54:39.688650 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 12304
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:54:39.688742 [04960] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:54:39.688752 [04960] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-24 16:59:03.554607 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 03668
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.98
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-24 16:59:03.554685 [29488] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-24 16:59:03.554690 [29488] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-25 14:25:50.422427 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 13872
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.78
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-25 14:25:50.423160 [18024] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-25 14:25:50.423168 [18024] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-26 09:16:04.153979 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 23892
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.78
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-26 09:16:04.154443 [25720] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-26 09:16:04.154449 [25720] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-27 13:18:56.813658 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 28780
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.42
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-27 13:18:56.814435 [08232] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-27 13:18:56.814449 [08232] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-27 13:32:42.973535 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29148
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.42
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-27 13:32:42.973620 [31552] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-27 13:32:42.973626 [31552] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-27 14:26:26.519572 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 01532
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.42
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-27 14:26:26.519651 [04788] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-27 14:26:26.519656 [04788] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2024-12-27 14:27:44.628425 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 26376
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.42
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2024-12-27 14:27:44.628500 [28236] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2024-12-27 14:27:44.628505 [28236] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 10:08:45.623612 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 16076
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 10:08:45.623698 [08652] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 10:08:45.623703 [08652] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 10:30:06.814561 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14980
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 10:30:06.814653 [14428] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 10:30:06.814662 [14428] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 10:30:44.018326 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 25568
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 10:30:44.018403 [29588] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 10:30:44.018408 [29588] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 11:18:24.488625 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 03292
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 11:18:24.488705 [28856] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 11:18:24.488710 [28856] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 11:42:17.182348 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 22772
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 11:42:17.182428 [26740] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 11:42:17.182433 [26740] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 11:43:17.234430 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 31452
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 11:43:17.234497 [19756] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 11:43:17.234501 [19756] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-02 17:02:01.372687 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 19308
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.105
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-02 17:02:01.372827 [26916] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-02 17:02:01.372834 [26916] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 09:44:22.055774 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 24420
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 09:44:22.055879 [16020] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 09:44:22.055885 [16020] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:15:47.015145 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 22760
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:15:47.015224 [05588] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:15:47.015230 [05588] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:18:27.402892 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14264
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:18:27.402968 [22212] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:18:27.402973 [22212] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:22:17.329232 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 30436
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:22:17.329312 [28548] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:22:17.329317 [28548] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:22:40.954924 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 11196
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:22:40.955013 [25504] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:22:40.955018 [25504] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:43:16.952928 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 26864
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:43:16.953000 [10540] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:43:16.953005 [10540] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-03 15:43:40.718715 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 04768
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-03 15:43:40.718795 [31124] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-03 15:43:40.718800 [31124] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-06 09:03:29.004355 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 31616
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-06 09:03:29.005656 [20320] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-06 09:03:29.005667 [20320] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-06 09:03:38.290300 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14404
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-06 09:03:38.290373 [28692] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-06 09:03:38.290377 [28692] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+2025-01-06 16:00:51.585193 [28692] >> Error entry
+	Error in receive: 20, data rec 0, status rec 0, read 0, 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Mon Jan  6 16:00:51 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        5469
+DETAIL      NiIRead: P=172.21.130.208:3300; L=172.21.104.88:50716
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     5
+
+2025-01-06 16:00:51.586077 [28692] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA828DC210: sapnwrfc.dll!RfcInvoke(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAB005ED20: python38.dll!PyObject_MakeTpCall(Error in SymSetContext(): 50)
+	0x7FFAB01D7E0C: python38.dll!PyContext_NewHamtForTests(Error in SymSetContext(): 50)
+	0x7FFAB0061F70: python38.dll!PyArg_UnpackStack(Error in SymSetContext(): 50)
+	0x7FFAB0026068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+
+2025-01-06 16:00:51.715758 [28692] >> Error entry
+	[Handle: 2205965184576	ConvID: 51249346	Target: ERP6PRD	SysID: SPA	SysNr: 00	User: notes	Client: 110	Language: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 18, Code: RFC_CLOSED, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Mon Jan  6 16:00:51 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        5469
+DETAIL      NiIRead: P=172.21.130.208:3300; L=172.21.104.88:50716
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     5
+
+2025-01-06 16:41:28.032889 [28692] >> Error entry
+	Error in receive: 20, data rec 0, status rec 0, read 0, 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Mon Jan  6 16:41:28 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        5469
+DETAIL      NiIRead: P=172.21.130.208:3300; L=172.21.104.88:52719
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     10
+
+2025-01-06 16:41:28.033025 [28692] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA828DC210: sapnwrfc.dll!RfcInvoke(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAB005ED20: python38.dll!PyObject_MakeTpCall(Error in SymSetContext(): 50)
+	0x7FFAB01D7E0C: python38.dll!PyContext_NewHamtForTests(Error in SymSetContext(): 50)
+	0x7FFAB0061F70: python38.dll!PyArg_UnpackStack(Error in SymSetContext(): 50)
+	0x7FFAB0026068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+
+2025-01-06 16:41:28.033524 [28692] >> Error entry
+	[Handle: 2205963034544	ConvID: 76170006	Target: ERP6PRD	SysID: SPA	SysNr: 00	User: notes	Client: 110	Language: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 18, Code: RFC_CLOSED, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Mon Jan  6 16:41:28 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        5469
+DETAIL      NiIRead: P=172.21.130.208:3300; L=172.21.104.88:52719
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     10
+
+2025-01-07 10:13:32.987724 [28692] >> Error entry
+	Error in receive: 20, data rec 0, status rec 0, read 0, 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Tue Jan  7 10:13:32 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        4903
+DETAIL      NiIWrite: P=172.21.130.208:3300; L=172.21.104.88:53330
+SYSTEM CALL WSASend
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     15
+
+2025-01-07 10:13:32.987988 [28692] >> Info entry
+	throwRfcErrorMsg called at:
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA829196B0: sapnwrfc.dll!RfcSetAbapObjectByIndex(Error in SymSetContext(): 50)
+	0x7FFA828DC210: sapnwrfc.dll!RfcInvoke(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFA9E2BB220: _pyrfc.cp38-win_amd64.pyd!PyInit__pyrfc(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB001BBDC: python38.dll!PyGen_Send(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAE8861000: _asyncio.pyd!PyInit__asyncio(Error in SymSetContext(): 50)
+	0x7FFAB005ED20: python38.dll!PyObject_MakeTpCall(Error in SymSetContext(): 50)
+	0x7FFAB01D7E0C: python38.dll!PyContext_NewHamtForTests(Error in SymSetContext(): 50)
+	0x7FFAB0061F70: python38.dll!PyArg_UnpackStack(Error in SymSetContext(): 50)
+	0x7FFAB0026068: python38.dll!PyVectorcall_Call(Error in SymSetContext(): 50)
+	0x7FFAB0025990: python38.dll!PyNumber_Long(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB0038BE0: python38.dll!Py_CheckFunctionResult(Error in SymSetContext(): 50)
+	0x7FFAB003A980: python38.dll!PyEval_EvalFrameDefault(Error in SymSetContext(): 50)
+	0x7FFAB002AFE8: python38.dll!PyCFunction_Call(Error in SymSetContext(): 50)
+
+2025-01-07 10:13:32.989077 [28692] >> Error entry
+	[Handle: 2205963026848	ConvID: 78167867	Target: ERP6PRD	SysID: SPA	SysNr: 00	User: notes	Client: 110	Language: 	Codepage: 4103]
+	RfcCommunicationException: Return Value: 18, Code: RFC_CLOSED, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '172.21.130.208:3300' broken
+TIME        Tue Jan  7 10:13:32 2025
+RELEASE     754
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      D:/depot/bas/754_REL/src/base/ni/nixxi.cpp
+LINE        4903
+DETAIL      NiIWrite: P=172.21.130.208:3300; L=172.21.104.88:53330
+SYSTEM CALL WSASend
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     15
+
+
+**** Log file opened at 2025-01-07 10:29:58.124927 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 14384
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-07 10:29:58.125036 [11348] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-07 10:29:58.125054 [11348] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-07 16:42:10.671148 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 13764
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-07 16:42:10.671244 [09760] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-07 16:42:10.671249 [09760] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-07 17:22:40.991477 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 30216
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-07 17:22:40.991583 [25460] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-07 17:22:40.991588 [25460] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-07 17:24:32.171345 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 01860
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-07 17:24:32.171416 [01416] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-07 17:24:32.171421 [01416] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-07 17:57:54.286076 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 16508
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.88
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-07 17:57:54.286151 [18120] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-07 17:57:54.286155 [18120] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 09:57:13.533038 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 09352
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 09:57:13.533125 [30084] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 09:57:13.533130 [30084] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 10:30:22.346401 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 08028
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 10:30:22.346499 [08548] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 10:30:22.346504 [08548] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 13:28:25.371230 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 15856
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 13:28:25.371306 [11604] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 13:28:25.371311 [11604] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 13:49:24.546672 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 31264
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 13:49:24.546742 [31828] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 13:49:24.546747 [31828] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 13:50:59.694009 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 26108
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 13:50:59.694079 [21168] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 13:50:59.694084 [21168] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 15:55:50.427950 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 09028
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 15:55:50.428030 [27332] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 15:55:50.428035 [27332] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 16:50:08.307881 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 19920
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 16:50:08.307959 [11200] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 16:50:08.307964 [11200] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 17:52:50.387317 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 12088
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 17:52:50.387394 [01268] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 17:52:50.387403 [01268] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-08 17:52:58.084927 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 02352
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.129
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-08 17:52:58.084997 [26964] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-08 17:52:58.085002 [26964] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-09 09:04:21.682350 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 30384
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.85
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-09 09:04:21.682426 [29840] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-09 09:04:21.682431 [29840] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-09 09:27:50.948538 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 19936
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.85
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-09 09:27:50.948616 [28188] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-09 09:27:50.948621 [28188] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-09 09:28:56.546713 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 18780
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.85
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-09 09:28:56.546814 [14236] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-09 09:28:56.546819 [14236] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-09 10:59:07.969592 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 29244
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.85
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-09 10:59:07.969698 [09036] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-09 10:59:07.969719 [09036] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
+
+**** Log file opened at 2025-01-09 13:36:24.266336 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 15
+Compilation date          : Nov  1 2024 23:51:57
+CPIC library              : 754.2024.07.29 version 3
+NI library                : 40
+Kernel Release            : 754 Patch Level 419
+Current working directory : C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk
+Program                   : python
+Process ID                : 15464
+User                      : Chaitanachote
+Hardware                  : PC with Windows NT 8x AMD64 Level 6 (Mod 140 Step 1)
+Binary Type               : 64bit
+Operating_system          : Windows NT 10.0
+Hostname                  : CHAITANACHOTE
+IP address                : 172.21.104.85
+IPv6 address              : fe80::78bb:4bef:61ca:b509
+Global trace level        : 0
+
+2025-01-09 13:36:24.266470 [01860] >> Info entry
+	Found env variable SAP_CODEPAGE=8600
+2025-01-09 13:36:24.266479 [01860] >> Info entry
+	Did not find config file C:\Payment-Project\payment-project\payment-project-ang-py\payment_api\nwrfcsdk\sapnwrfc.ini.
