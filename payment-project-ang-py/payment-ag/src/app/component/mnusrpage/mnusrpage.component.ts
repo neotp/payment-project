@@ -79,23 +79,23 @@ export class MnusrpageComponent {
       // } else {
       //   console.log('alert message');
       // }
-
-      this.api.getData(this.searchData).subscribe({
-        next: (result: any) => {                     
-          if (result) {
-            console.log(result);
-          } else {
-            console.log('alert message');
-          }
-        },
-        error: (err: any) => {
-          console.error('API call failed:', err);
-          console.log('alert message');
-        },
-        complete: () => {
-          this.setLoading(false);
-        }
-      });
+      console.log('alert message');
+      // this.api.getData(this.searchData).subscribe({
+      //   next: (result: any) => {                     
+      //     if (result) {
+      //       console.log(result);
+      //     } else {
+      //       console.log('alert message');
+      //     }
+      //   },
+      //   error: (err: any) => {
+      //     console.error('API call failed:', err);
+      //     console.log('alert message');
+      //   },
+      //   complete: () => {
+      //     this.setLoading(false);
+      //   }
+      // });
     } else {
       this.popup('search');
     }

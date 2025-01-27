@@ -50,15 +50,15 @@ export class RegispageComponent implements OnInit {
 
   public onSubmit(): void {
     if (this.registerForm.valid) {
-        this.api.register(this.registerData).subscribe((result: any) => {
-          if(result.role === 'admin') {
+        // this.api.register(this.registerData).subscribe((result: any) => {
+        //   if(result.role === 'admin') {
             this.router.navigate(['/pymntpage'], {queryParams: this.registerData});
-          } else {
-            this.router.navigate(['/mnusrpage'], {queryParams: this.registerData});
-          }
-        }, (error: any) => {
-          console.log('Error during login:', error);
-        });
+          // } else {
+            // this.router.navigate(['/mnusrpage'], {queryParams: this.registerData});
+          // }
+        // }, (error: any) => {
+        //   console.log('Error during login:', error);
+        // });
     }
   }
 

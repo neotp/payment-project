@@ -47,20 +47,22 @@ export class LoginpageComponent implements OnInit {
     this.populateForm();
     if (!this.loginData.username || !this.loginData.password) {
       console.log('alert message');
+      
+      this.router.navigate(['/pymntpage'], {queryParams: this.loginData});
     } else {
       console.log('username :', this.loginData.username);
       console.log('password :', this.loginData.password);
       
       // Assuming `this.api.login()` returns an observable
-      this.api.login(this.loginData).subscribe((result: any) => {
-        if(result.role === 'admin') {
-          this.router.navigate(['/mnusrpage'], {queryParams: this.loginData});
-        } else {
+      // this.api.login(this.loginData).subscribe((result: any) => {
+        // if(result.role === 'admin') {
+          // this.router.navigate(['/mnusrpage'], {queryParams: this.loginData});
+        // } else {
           this.router.navigate(['/pymntpage'], {queryParams: this.loginData});
-        }
-      }, (error: any) => {
-        console.log('Error during login:', error);
-      });
+        // }
+      // }, (error: any) => {
+      //   console.log('Error during login:', error);
+      // });
     }
   }
 
